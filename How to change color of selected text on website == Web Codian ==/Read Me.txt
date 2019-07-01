@@ -1,0 +1,14 @@
+Web Codian
+
+In this repository you are going to find the stuff related that How you can change the color of selected text in
+your website. This is one of the easiest way that you can do so. 
+
+If you have any suggestion or query related this code then comment on this repository.
+
+This code is free to use for everyone. You can use this code any where you want in your website.
+
+Video Tutorial: https://www.youtube.com/watch?v=y1sd3bCGsyY&feature=youtu.be
+
+For more interesting stuff visit our channel
+
+Web Codian: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw?
